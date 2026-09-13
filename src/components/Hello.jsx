@@ -11,6 +11,7 @@ const Hello = () => {
         <h1>I did voluntery in SMIT today!</h1>
         <h1>I did voluntery for the second time in SMIT today!</h1>
         <h1>I Completed my work in the EduHub Project</h1>
+        <h1>I Completed my work in the EduHub Project</h1>
         
       
     </div>
