@@ -15,6 +15,7 @@ const Hello = () => {
         <h1>I Completed my work in the EduHub Project 4</h1>
         <h1>I Completed my work in the EduHub Project 5</h1>
         <h1>I Completed my work in the EduHub Project 6</h1>
+        <h1>I Completed my work in the EduHub Project 7</h1>
       
       
     </div>
